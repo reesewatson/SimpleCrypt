@@ -52,5 +52,4 @@ public class ROT13  {
         result += s.substring(index);
         return result + s.substring(0, index);
     }
-
 }
